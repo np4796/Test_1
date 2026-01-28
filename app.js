@@ -17,15 +17,35 @@ console.log("API Key:", getApiKey());
 REDACTED_SECRET
 REDACTED_SECRET
 REDACTED_SECRET
+function getApiKey() {
+    // WARNING: Hardcoded API key for testing secret detection
+    const REDACTED_SECRET2;
+    return API_KEY;
+}
+REDACTED_SECRET
+REDACTED_SECRET
+REDACTED_SECRET
+function getApiKey() {
+    // WARNING: Hardcoded API key for testing secret detection
+    const REDACTED_SECRET2;
+    return API_KEY;
+}
 REDACTED_SECRET
 REDACTED_SECRET
 REDACTED_SECRET
 REDACTED_SECRET
+function getApiKey() {
+    // WARNING: Hardcoded API key for testing secret detection
+    const REDACTED_SECRET2;
+    return API_KEY;
+}
 REDACTED_SECRET
 REDACTED_SECRET
-REDACTED_SECRET
-REDACTED_SECRET
-REDACTED_SECRET
+function getApiKey() {
+    // WARNING: Hardcoded API key for testing secret detection
+    const REDACTED_SECRET2;
+    return API_KEY;
+}
 REDACTED_SECRET
 REDACTED_SECRET
 
