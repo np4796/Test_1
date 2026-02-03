@@ -2,7 +2,7 @@
 
 function getApiKey() {
     // WARNING: Hardcoded API key for testing secret detection
-    const REDACTED_SECRET2 = REDACTED_SECRETjmeter;
+    const REDACTED_SECRET2 = jmeter_secret;
     return API_KEY;
 }
 
