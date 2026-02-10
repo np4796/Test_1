@@ -14,11 +14,11 @@ console.log("API Key:", getApiKey());
 "11b8cb112292f87d6a9eee6d4989bff33c"
 "ZEqCS4GqM2ep5TZZOhWYiFM7GSVXgXXsEO7EzseE"
 
-"TENANT_ID":"new_scan",
-"CLIENT_ID":"new_scan",
-"CLIENT_SECRET":REDACTED_SECRET,
-"REDACTED_SECRET
-''azure sub id'': "new_scan"
+"TENANT_I":"new_scan",
+"CLIENT_I":"new_scan",
+"CLIENT":REDACTED_SECRET,
+"grafana": "REDACTED_SECRET
+''azure sub'': "new_scan"
 
 REDACTED_SECRET
 REDACTED_SECRET
