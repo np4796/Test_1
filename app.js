@@ -2,7 +2,7 @@
 
 function getApiKey() {
     // WARNING: Hardcoded API key for testing secret detection
-    const REDACTED_SECRET2 =REMOVED_BY_AGENT_ASSIST
+    const REDACTED_SECRET2 =ghp_flpyEhSQDeusMndKbx1O0bQjpv18if0N97n1
 ;
     return API_KEY;
 }
