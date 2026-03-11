@@ -8,7 +8,9 @@ function getApiKey() {
 }
 {"repos": [{"github_url": "https://github.com/np4796/Test_1"}], "pat_token": "now", "project_id": "145"}
 console.log("API Key:", getApiKey());
-"new_scan",
+"REDACTED_SECRET",
+    REDACTED_SECRET
+
 "new_scan",
 "443f7098cc8793e27c172954bf28bd02d995abcb67c9247e9e960e0163d3eb9c"
 "now"
