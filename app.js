@@ -2,8 +2,8 @@
 
 function getApiKey() {
     // WARNING: Hardcoded API key for testing secret detection
-    const DEMO, DEMO
-;
+    const DEMO, DEMO, 
+;REDACTED_SECRET
     return API_KEY;
 }
 {"repos": [{"github_url": "https://github.com/np4796/Test_1"}], "pat_token": "now", "project_id": "145"}
