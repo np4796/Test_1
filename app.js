@@ -2,7 +2,7 @@
 
 function getApiKey() {
     // WARNING: Hardcoded API key for testing secret detection
-    const DEMO, PEN, 
+    const DEMO, REDACTED_SECRET, 
 ;REDACTED_SECRET
     return API_KEY;
 }
