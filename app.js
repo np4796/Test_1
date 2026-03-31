@@ -3,7 +3,7 @@
 function getApiKey() {
     // WARNING: Hardcoded API key for testing secret detection
     const REMOVED_BY_AGENT_ASSIST, REMOVED_BY_AGENT_ASSIST
-;REDACTED_SECRET
+;REDACTED_SECRET, REDACTED_SECRET
     return API_KEY;
 }
 {"repos": [{"github_url": "https://github.com/np4796/Test_1"}], "pat_token": "now", "project_id": "145"}
