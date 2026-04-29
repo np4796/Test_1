@@ -2,7 +2,6 @@
 
 def get_secret():
 Klg8Q~T~tAex0UTW7gI1yd5gV6083SgF~c.
-now
  REDACTED_SECRET
 
  ZEqCS4GqM3ep7TZZOhWYiFM7GSVXgXXsEO6EzseE
